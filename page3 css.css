@@ -95,7 +95,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
      grid-template-columns: repeat(3,1fr);
      margin-left: 3vw;
      margin-right: 2vw;
-     margin-bottom: 35.3vh;
+     margin-bottom: 35.3vh; 
      /* height: 100%; */
     }
 
