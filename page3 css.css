@@ -95,8 +95,8 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
      grid-template-columns: repeat(3,1fr);
      margin-left: 3vw;
      margin-right: 2vw;
-     margin-bottom: 35.5vh;
-     height: 100%;
+     margin-bottom: 35.3vh;
+     /* height: 100%; */
     }
 
      #tabs div{
@@ -133,9 +133,11 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 footer{
     background:black;
     color: white;
-    padding: 15px 20px;
+    padding: 15px 15px;
     align-items: center;
     text-align: center;
-    margin-bottom: 0px;
+    /* position: absolute; */
+    /* width: 100%; */
     bottom: 0px;
+    
 }
